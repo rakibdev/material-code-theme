@@ -6,13 +6,14 @@ If you find any issue or have any suggestion send it on [Github](https://github.
 
 <br/>
 
-![Visual Studio Code with Material Code Theme](/screenshot.png)
+![Visual Studio Code with Material Code Theme](https://raw.githubusercontent.com/rakibdev/material-code-theme/master/images/screenshot-pink-bg.png)
 
 <br/>
 
 ## Latest releases
 
-1.1.0 - 8 March 2020
+### 1.1.0 - 8 March 2020
+
 - Improved Syntax colors.
 - Added Markdown highlighting support.
 
