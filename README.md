@@ -1,26 +1,18 @@
 # Material Dark Theme for Visual Studio Code
 
-Colorful syntax, easy on eyes, optimized for web development.
-
-If you find any issue or have any suggestion send it on [Github](https://github.com/rakibdev/material-code-theme/issues)
-
-<br/>
-
-![Visual Studio Code with Material Code Theme](https://raw.githubusercontent.com/rakibdev/material-code-theme/master/images/screenshot-pink-bg.png)
+Colorful syntax and easy on eyes.
+Send your issues or suggestion on [Github](https://github.com/rakibdev/material-code-theme/issues)
 
 <br/>
 
-## Latest releases
-
-### 1.1.0 - 8 March 2020
-
-- Improved Syntax colors.
-- Added Markdown highlighting support.
+![Material Code Theme Screenshot](https://raw.githubusercontent.com/rakibdev/material-code-theme/master/images/screenshot.png)
 
 <br/>
 
-## License
+## Latest release
 
-This theme is released under the MIT License.
+### 2.0.0 - 25 April 2002 (Big update)
+- Updated full editor colors.
+- Improved JavaScript, HTML, CSS, Typescript, Markdown syntax highlighting, now syntax are more colorful.
 
 © 2020, Developed by Rakib.

@@ -1,8 +1,8 @@
 {
-  "name": "material-code",
+  "name": "rakib-material-code",
   "displayName": "Material Code",
   "description": "Material Dark Theme for Visual Studio Code.",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "publisher": "rakibdev01",
   "license": "MIT",
   "author": {
@@ -25,13 +25,13 @@
   "keywords": [
     "theme",
     "material",
-    "dark",
+    "dark-theme",
     "color-theme",
     "customization"
   ],
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#073042",
+    "color": "#ffffff",
     "theme": "light"
   },
   "contributes": {
